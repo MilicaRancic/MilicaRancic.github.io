@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.navigation {
+  list-style: none;
+  height: auto;
+  padding: 0;
+  background: none;
+  border-radius: 0;
+  border: none;
+  width: auto;
+}
+
+.navigation li {
+  width: auto;
+  float: none;
+  border: none;
+  height: auto;
+}
+
+.navigation a {
+  line-height: 1;
+  font-size: 11px;
+  color: #39c;
+  display: block;
+  text-align: center;
+  padding-top: 0;
+  height: auto;
+}
