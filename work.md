@@ -4,26 +4,26 @@
 
 ## Aug. 2014 to present
 
-* Institution: The School of Education, Culture and Communication, Mälardalen University, Sweden
-* Department: Division of Applied Mathematics
-* Position: Senior Lecturer
+* __Institution__: The School of Education, Culture and Communication, Mälardalen University, Sweden
+* __Department__: Division of Applied Mathematics
+* __Position__: Senior Lecturer
 
 ## Oct. 2013 – Aug. 2014
 
-* Institution: The School of Education, Culture and Communication, Mälardalen University, Sweden
-* Department: Division of Applied Mathematics
-* Position: Post Doctoral Fellow
+* __Institution__: The School of Education, Culture and Communication, Mälardalen University, Sweden
+* __Department__: Division of Applied Mathematics
+* __Position__: Post Doctoral Fellow
 
 ## 2004 – 2013
 
-* Institution: Faculty of Electronic Engineering, University of Niš
-* Department: Theoretical Electrical Engineering
-* Position: lecturer/researcher
-* Courses: Theoretical electrical engineering I and II, Circuit theory, Electromagnetics
+* __Institution__: Faculty of Electronic Engineering, University of Niš
+* __Department__: Theoretical Electrical Engineering
+* __Position__: lecturer/researcher
+* __Courses__: [Theoretical electrical engineering I and II](http://eth.elfak.ni.ac.rs/), Circuit theory, [Electromagnetics](http://em.elfak.ni.ac.rs/)
 
 ## 2003 – 2004
 
-* Institution: Faculty of Electronic Engineering, University of Niš
-* Department: Metrology
-* Position: lecturer/researcher
-* Courses: Measurements in electronics, Telemetry
+* __Institution__: Faculty of Electronic Engineering, University of Niš
+* __Department__: Metrology
+* __Position__: lecturer/researcher
+* __Courses__: Measurements in electronics, Telemetry
