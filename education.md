@@ -1,5 +1,7 @@
 # Education
 
+> Education is what remains after one has forgotten everything he learned in school. – __Albert Einstein__
+
 ## 2008 – 2012
 
 * PhD studies: Faculty of Electronic Engineering, University of Niš
