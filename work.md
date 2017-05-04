@@ -1,6 +1,6 @@
 # Work experience
 
-> Find something you love to do and you’ll never have to work a day in your life. – Harvey MacKay
+> Find something you love to do and you’ll never have to work a day in your life. – __Harvey MacKay__
 
 ## Aug. 2014 to present
 
