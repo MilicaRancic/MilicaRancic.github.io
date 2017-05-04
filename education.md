@@ -1,3 +1,5 @@
+# Education
+
 ## 2008 – 2012
 
 * PhD studies: Faculty of Electronic Engineering, University of Niš
